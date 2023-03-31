@@ -4,6 +4,7 @@
 - [目录](#目录)
 - [仓库介绍](#仓库介绍)
 - [OpenAI镜像网站](#OpenAI镜像网站)
+- [ChatGPT客户端](#ChatGPT客户端)
 - [ChatGPT代替品](#ChatGPT代替品)
 - [大厂产品](#大厂产品)
 - [AI应用](#AI应用)
@@ -30,7 +31,7 @@
   <summary><h1>仓库介绍</h1></summary>
 
 ```
- 收集国内免费ChatGPT镜像，替代品收录，基于ChatGPT的应用网站，其他相关AI产品等AI网址导航，
+ 收集国内免费ChatGPT镜像，替代品收录，点个Star⭐️，持续更新ing！
 ```
 
 </details>
@@ -138,6 +139,44 @@
             </ul>
         </td> 
     </tr>
+</table> 
+</details>
+
+
+<details open="open">
+<summary><h1>ChatGPT客户端</h1></summary>
+<table>
+    <tr>
+        <td>
+            <div>
+                <img src="./icon/FreeGPT.png" width="15"; height="15">
+                <a   href="https://app.nofwl.com/chatgpt">NoFWL</a>
+            </div>
+        </td>
+	<td>
+	    <ul style="list-style-type: disc;">
+	    	<li>直接在桌面使用,不用担心宕机,回复速度快</li>
+		<li>使用自己的API KEY</li>
+		<li>科学science上网</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <img src="" width="15"; height="15">
+                <a   href="https://chat.openai.com/">...</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li></li>
+            </ul>
+        </td> 
+    </tr>
+
+    
+ 
 </table> 
 </details>
 
