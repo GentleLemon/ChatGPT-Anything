@@ -1256,4 +1256,4 @@ http://www.prompttool.com/
 
 
 ## License
-MIT © [GentleLemon](./license)
+MIT © [GentleLemon](./LICENSE)
