@@ -1252,8 +1252,8 @@ http://www.prompttool.com/
 
 
 
-
-
-
-
 [👆回到目录👆](#目录)
+
+
+## License
+MIT © [GentleLemon](./license)
