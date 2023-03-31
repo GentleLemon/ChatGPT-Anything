@@ -64,7 +64,7 @@
         <td>
             <div>
                 <img src="./icon/AIEDU.png" width="15"; height="15">
-                <a   href="https://chat.forchange.cn/">AI EDU</a>
+                <a   href="https://pandapy.com/">AI EDU</a>
             </div>
         </td>
         <td>
