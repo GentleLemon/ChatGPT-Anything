@@ -56,9 +56,7 @@
                 <li>科学science上网</li>
                 <li>界面操作体验较好</li>
                 <li>可以存储和导入Prompt</li>
-		<li>问多了会限流！</li>
                 <li>GPT-3.5 / ChatGPT</li>
-		<li>!!!4月2日开始进行为期3-5天的维护, 暂时不能用。</li>
             </ul>
         </td> 
     </tr>
