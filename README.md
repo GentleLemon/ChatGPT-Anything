@@ -1,3 +1,9 @@
+<details open="open">
+  <summary><h1>仓库介绍</h1></summary>
+
+```
+ 收集国内免费ChatGPT镜像，替代品收录，点个Star⭐️，持续更新ing！
+```
 
 # 目录
 
@@ -26,13 +32,6 @@
 <hr><br/><br/>
 
 
-
-<details open="open">
-  <summary><h1>仓库介绍</h1></summary>
-
-```
- 收集国内免费ChatGPT镜像，替代品收录，点个Star⭐️，持续更新ing！
-```
 
 </details>
 
