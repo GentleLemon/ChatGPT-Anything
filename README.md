@@ -31,15 +31,10 @@
 
 <hr><br/><br/>
 
-
-
 </details>
 
 <details open="open">
   <summary><h1>OpenAI镜像网站</h1></summary>
-
-​    
-
 
 <table>
     <tr>
