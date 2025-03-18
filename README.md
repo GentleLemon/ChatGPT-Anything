@@ -518,6 +518,15 @@ ChatPaper全流程加速科研：论文阅读+润色+审稿+审稿回复
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><a href="https://www.fynix.ai/">Fynix</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>基于ChatGPT的代码助手</li>
+                <li>Fynix提供AI驱动的编码支持和自动化代码审查</li>
+                <li>确保更智能、更清洁的开发</li>
+            </ul>
+        </td>
 </table>
 
 
