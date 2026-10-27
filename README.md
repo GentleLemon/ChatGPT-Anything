@@ -1237,6 +1237,14 @@ http://www.prompttool.com/
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><a href="https://respawnstack.com/">RespawnStack</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>面向独立游戏开发者的 AI 游戏工具目录，涵盖素材、引擎与制作工具。</li>
+            </ul>
+        </td>
+    </tr>
 </table>
 
 
